@@ -1,5 +1,6 @@
 a=10
 b=2
+print(a)
 print("a+b=",a+b)
 print("a-b=",b-a)
 print("a*b=",a*b)
